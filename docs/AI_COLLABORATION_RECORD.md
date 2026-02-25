@@ -70,6 +70,8 @@ I expect to see the ocean waves look real, or at least move from something other
 
 
 
+
+
 ### Entry 02 — (2/17/26)
 
 ## Project
@@ -175,7 +177,156 @@ I will see more platforms and detail
 
 **Next right action (one sentence):**
 - update the game to be something longer and fast-paced
+### Entry 02 — (2/17/26)
 
-still working on next few****
+## Project
+- Repo:https://github.com/bmarquis29-star/citique-field-manual
+- Deployed link (if applicable):
+- Date started: Jan 27, 2026
+
+## My constraints (before any AI)
+- Intent (1 sentence): make a critique manual to use through the class
+- Constraints (3): simple, fast, slow, 
+- Tension (1): making it correct
+- Taste vow (1): blue
+
+---
+
+## Entry Log
+
+### Entry 01 — (1/27/26)
+**My next move (write before AI):**
+- make it look like a horizontal timeline
+**Files touched:**
+Index.html
+script.js
+style.css
+**Copilot prompt (paste exact prompt):**
+Context: what you’re building and what the system is supposed to do
+		- a simple, critique site where you can see 4 goals
+Target: the one thing you want help with (one file, one function, one bug)
+Fix the looks and aesthetic to become more atmospheric, and make it look diverse
+Constraints: what you refuse to add (no extra features, no new libraries, keep it readable, etc.)
+More complexity, it needs to be a simple critique field
+Acceptance test: how you will know it worked (what you expect to see on screen)
+I will see more detail
+
+**Copilot output (summarize in 3–6 bullets):**
+- made it more colorful
+- improved the fast and slow
+- made the atmosphere feel more unique and color coordinated
+
+**My translation (what changed and why):**
+- more detail in color and atmosphere, moved from all blue to rainbow
+**Signal / Noise:**
+- Signal: it was more clear that I wanted diversity and color
+- Noise: not really a lot, but when you press fast it’s a bit of a headache to look at
+**Next right action (one sentence):**
+- focus adding more specifics
+
+## Project
+- Repo:https://github.com/bmarquis29-star/self-as-system-build-v2
+- Deployed link (if applicable):
+- Date started: Feb 12, 2026
+
+## My constraints (before any AI)
+- Intent (1 sentence): make a fun drawing game
+- Constraints (3): simple, hand-tracking, dark–light
+- Tension (1): keeping it simple, yet complex
+- Taste vow (1): drawing and color
+
+### Entry 05 — (2/12/26)
+**My next move (write before AI):**
+- make it look like a horizontal timeline
+**Files touched:**
+Index.html
+script.js
+**Copilot prompt (paste exact prompt):**
+Context: what you’re building and what the system is supposed to do
+		- a simple, drawing mechanic using your hand
+Target: the one thing you want help with (one file, one function, one bug)
+Fix the looks and aesthetic to become more atmospheric, and make it look diverse
+Constraints: what you refuse to add (no extra features, no new libraries, keep it readable, etc.)
+More complexity, it needs to be a simple drawing game
+Acceptance test: how you will know it worked (what you expect to see on screen)
+I will see more detail
+
+**Copilot output (summarize in 3–6 bullets):**
+- made it more colorful
+- improved the fast and slow
+- made the atmosphere feel more unique and color coordinated
+
+**My translation (what changed and why):**
+- more detail in color and atmosphere, moved from all blue to rainbow
+**Signal / Noise:**
+- Signal: it was more clear that I wanted diversity and color
+- Noise: not really a lot, but when you press fast it’s a bit of a headache to look at
+**Next right action (one sentence):**
+- focus adding more specifics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Project
+- Repo:https://github.com/bmarquis29-star/self-as-system-build-v2
+- Deployed link (if applicable):
+- Date started: Feb 10, 2026
+
+## My constraints (before any AI)
+- Intent (1 sentence): make a sigil move
+- Constraints (3): simple, reactive, cursor based
+- Tension (1): keeping it simple
+- Taste vow (1): red and dark
+
+### Entry 05 — (2/12/26)
+**My next move (write before AI):**
+- make it look like a horizontal timeline
+**Files touched:**
+Index.html
+**Copilot prompt (paste exact prompt):**
+Context: what you’re building and what the system is supposed to do
+		- a simple, orbital sigil that reacts to cursor movement
+Target: the one thing you want help with (one file, one function, one bug)
+Make it more complex, but keep it tight and simple
+Constraints: what you refuse to add (no extra features, no new libraries, keep it readable, etc.)
+Too much going on, it’s version 1
+Acceptance test: how you will know it worked (what you expect to see on screen)
+I will see more going on at the moment
+
+**Copilot output (summarize in 3–6 bullets):**
+- made it more complex
+- improved the goal
+- made the atmosphere feel more unique and controlled
+
+**My translation (what changed and why):**
+- more detail and depth 
+**Signal / Noise:**
+- Signal: it was more clear that I wanted simplicity
+- Noise: not much noise, just simple
+**Next right action (one sentence):**
+- make v2 better than v1
+
+
+
+
+
+
+
 
 
